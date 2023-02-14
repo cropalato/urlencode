@@ -1,2 +1,6 @@
 # urlencode
-url encode and decode tool
+Quick project to helop to encode/decod url
+
+
+## build
+go build -o . ./...
